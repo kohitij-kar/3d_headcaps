@@ -3,7 +3,8 @@ This repo contains details about the hardware implementation of the head cap ada
 
 
 
-Some of the file are too big .. giving the dropbox linsk here
-Head Post cover
+Some of the files are too big .. giving the dropbox link here
+
+### Head Post cover
 https://www.dropbox.com/s/0b3leh1ks4yf1z1/wirelesss%20head%20post%20cover_rev%202.SLDASM?dl=0
 
